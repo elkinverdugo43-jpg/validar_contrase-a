@@ -1,0 +1,9 @@
+.mensaje-error{
+    color: red;
+    font-weight: bold;
+}
+
+.mensaje-valido{
+    color: green;
+    font-weight: bold;
+}
